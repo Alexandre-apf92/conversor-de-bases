@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619380011 source:c:\users\alexa\onedrive\documentos\conversor-de-bases\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
